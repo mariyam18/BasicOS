@@ -1,0 +1,3 @@
+mariyam 50 12
+sana 80 17
+mubo 90 20
